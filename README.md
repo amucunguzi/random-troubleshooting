@@ -1,2 +1,3 @@
-# random-troubleshooting
-Troubleshooting interesting issues I come across 
+# Random Troubleshooting
+
+Just random tech stuff.
